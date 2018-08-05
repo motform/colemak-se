@@ -1,2 +1,4 @@
 # Ignore reference directory
 ref/
+.DS_Store
+
