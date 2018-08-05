@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="900px" height="300px" viewBox="0 0 900 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Colemak-SE</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Colemak-SE" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-Copy-41" transform="translate(92.000000, 242.000000)" fill="#D8D8D8" fill-opacity="0.25" fill-rule="nonzero" stroke="#000000">
+            <rect id="Key" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+        </g>
+        <g id="Group-Copy-43" transform="translate(102.000000, 242.000000)">
+            <rect id="Key" stroke="#000000" fill-opacity="0.25" fill="#D8D8D8" fill-rule="nonzero" x="590.5" y="0.5" width="55" height="55" rx="14"></rect>
+            <text id="Cmd" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                <tspan x="603.796364" y="27"></tspan>
+                <tspan x="600" y="43.0910339">Cmd</tspan>
+            </text>
+            <text id="Cmd" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                <tspan x="3.79636364" y="27"></tspan>
+                <tspan x="0" y="43.0910339">Cmd</tspan>
+            </text>
+        </g>
+        <g id="Group-Copy-45" transform="translate(602.000000, 242.000000)">
+            <rect id="Key" stroke="#000000" fill-opacity="0.25" fill="#D8D8D8" fill-rule="nonzero" x="0.5" y="0.5" width="85" height="55" rx="14"></rect>
+            <text id="⎇-Alt" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                <tspan x="8" y="27">    </tspan>
+                <tspan x="53.1507867" y="32.6296692" font-family="AppleSymbols, Apple Symbols">⎇</tspan>
+                <tspan x="77.8615072" y="32.9089661"></tspan>
+                <tspan x="8" y="49">Alt</tspan>
+            </text>
+        </g>
+        <g id="Group-Copy-46" transform="translate(152.000000, 242.000000)">
+            <rect id="Key" stroke="#000000" fill-opacity="0.25" fill="#D8D8D8" fill-rule="nonzero" x="0.5" y="0.5" width="85" height="55" rx="14"></rect>
+            <text id="⎇-Alt" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                <tspan x="8" y="27">    </tspan>
+                <tspan x="53.1507867" y="32.6296692" font-family="AppleSymbols, Apple Symbols">⎇</tspan>
+                <tspan x="77.8615072" y="32.9089661"></tspan>
+                <tspan x="8" y="49">Alt</tspan>
+            </text>
+        </g>
+        <g id="Group-Copy-47" transform="translate(242.000000, 242.000000)">
+            <rect id="Key" stroke="#000000" fill-opacity="0.25" fill="#D8D8D8" fill-rule="nonzero" x="0.5" y="0.5" width="355" height="55" rx="14"></rect>
+            <text id="Spacebar" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                <tspan x="13.7963636" y="27"></tspan>
+                <tspan x="10" y="43.0910339">Spacebar</tspan>
+            </text>
+        </g>
+        <g id="Group-Copy-44" transform="translate(752.000000, 242.000000)" fill="#D8D8D8" fill-opacity="0.25" fill-rule="nonzero" stroke="#000000">
+            <rect id="Key" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+        </g>
+        <g id="Group-Copy-42" transform="translate(2.000000, 242.000000)">
+            <rect id="Key" stroke="#000000" fill-opacity="0.25" fill="#D8D8D8" fill-rule="nonzero" x="0.5" y="0.5" width="85" height="55" rx="14"></rect>
+            <text id="Ctrl" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                <tspan x="13.7963636" y="27"></tspan>
+                <tspan x="10" y="43.0910339">Ctrl</tspan>
+            </text>
+        </g>
+        <g id="Group-Copy-48" transform="translate(812.000000, 242.000000)">
+            <rect id="Key" stroke="#000000" fill-opacity="0.25" fill="#D8D8D8" fill-rule="nonzero" x="0.5" y="0.5" width="85" height="55" rx="14"></rect>
+            <text id="Ctrl" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                <tspan x="13.7963636" y="27"></tspan>
+                <tspan x="10" y="43.0910339">Ctrl</tspan>
+            </text>
+        </g>
+        <g id="BOT-ROW" transform="translate(2.000000, 182.000000)">
+            <g id="Group-Copy-28" transform="translate(135.000000, 0.000000)">
+                <rect id="Key" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id="Z" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="13.7963636" y="27"></tspan>
+                    <tspan x="10" y="43.0910339">Z</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-30" transform="translate(195.000000, 0.000000)">
+                <rect id="Key" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id="X" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="13.7963636" y="27"></tspan>
+                    <tspan x="10" y="43.0910339">X</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-31" transform="translate(255.000000, 0.000000)">
+                <rect id="Key" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id="C" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="13.7963636" y="27"></tspan>
+                    <tspan x="10" y="43.0910339">C</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-32" transform="translate(315.000000, 0.000000)">
+                <rect id="Key" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id="V" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="13.7963636" y="27"></tspan>
+                    <tspan x="10" y="43.0910339">V</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-33" transform="translate(375.000000, 0.000000)">
+                <rect id="Key" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id="B" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="13.7963636" y="27"></tspan>
+                    <tspan x="10" y="43.0910339">B</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-34" transform="translate(435.000000, 0.000000)">
+                <rect id="Key" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id="K" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="13.7963636" y="27"></tspan>
+                    <tspan x="10" y="43.0910339">K</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-35" transform="translate(495.000000, 0.000000)">
+                <rect id="Key" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id="M" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="13.7963636" y="27"></tspan>
+                    <tspan x="10" y="43.0910339">M</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-36" transform="translate(555.000000, 0.000000)">
+                <rect id="Key" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id=";-," font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="10" y="27">  </tspan>
+                    <tspan x="33.1106313" y="27" font-family="Input-Italic, Input" font-style="italic">;</tspan>
+                    <tspan x="49.1495833" y="32.9089661"></tspan>
+                    <tspan x="10" y="49">,</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-37" transform="translate(615.000000, 0.000000)">
+                <rect id="Key" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id=":-." font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="10" y="27">  </tspan>
+                    <tspan x="33.1106313" y="27" font-family="Input-Italic, Input" font-style="italic">:</tspan>
+                    <tspan x="49.1495833" y="32.9089661"></tspan>
+                    <tspan x="10" y="49">.</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-38" transform="translate(675.000000, 0.000000)">
+                <rect id="Key" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id="_--" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="10" y="27">  </tspan>
+                    <tspan x="33.1106313" y="27" font-family="Input-Italic, Input" font-style="italic">_</tspan>
+                    <tspan x="49.1495833" y="32.9089661"></tspan>
+                    <tspan x="10" y="49">-</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-39" transform="translate(735.000000, 0.000000)">
+                <rect id="Key" stroke="#000000" fill-opacity="0.25" fill="#D8D8D8" fill-rule="nonzero" x="0.5" y="0.5" width="160" height="55" rx="14"></rect>
+                <text id="⇧-Shift" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="10" y="25.9660339">           </tspan>
+                    <tspan x="119.155304" y="23" font-family="ArialUnicodeMS, Arial Unicode MS" font-size="24">⇧</tspan>
+                    <tspan x="160.864072" y="27.875"></tspan>
+                    <tspan x="10" y="47.9660339">Shift</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-29" transform="translate(75.000000, 0.000000)">
+                <rect id="Key" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id="&gt;-&lt;" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="10" y="27">  </tspan>
+                    <tspan x="33.1106313" y="27" font-family="Input-Italic, Input" font-style="italic">&gt;</tspan>
+                    <tspan x="49.1495833" y="32.9089661"></tspan>
+                    <tspan x="10" y="49">&lt;</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-40">
+                <rect id="Key" stroke="#000000" fill-opacity="0.25" fill="#D8D8D8" fill-rule="nonzero" x="0.5" y="0.5" width="70" height="55" rx="14"></rect>
+                <text id="⇧" font-family="Input-Regular, Input" font-size="24" font-weight="normal" line-spacing="22" letter-spacing="0.4398148" fill="#000000">
+                    <tspan x="16" y="30">  </tspan>
+                    <tspan x="28.2173711" y="34.6702881" font-family="ArialUnicodeMS, Arial Unicode MS">⇧</tspan>
+                    <tspan x="70.0360921" y="39.5452881"></tspan>
+                </text>
+            </g>
+        </g>
+        <g id="HOME-ROW" transform="translate(2.000000, 62.000000)">
+            <g id="Group-Copy-14" transform="translate(105.000000, 60.000000)">
+                <rect id="Key" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id="A" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="13.7963636" y="27"></tspan>
+                    <tspan x="10" y="43.0910339">A</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-25" transform="translate(0.000000, 60.000000)">
+                <rect id="Key" stroke="#000000" fill-opacity="0.25" fill="#D8D8D8" fill-rule="nonzero" x="0.5" y="0.5" width="100" height="55" rx="14"></rect>
+                <text id="⇪-Caps" font-family="ArialUnicodeMS, Arial Unicode MS" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="8" y="26.875">             </tspan>
+                    <tspan x="71.2335068" y="22" font-size="24">⇪</tspan>
+                    <tspan x="112.942274" y="26.875" font-family="Input-Regular, Input"></tspan>
+                    <tspan x="22.4057848" y="46.9660339" font-family="Input-Regular, Input">Caps</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-15" transform="translate(165.000000, 60.000000)">
+                <rect id="Key" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id="R" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="13.7963636" y="27"></tspan>
+                    <tspan x="10" y="43.0910339">R</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-16" transform="translate(225.000000, 60.000000)">
+                <rect id="Key" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id="S" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="13.7963636" y="27"></tspan>
+                    <tspan x="10" y="43.0910339">S</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-17" transform="translate(285.000000, 60.000000)">
+                <rect id="Key" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id="T" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="13.7963636" y="27"></tspan>
+                    <tspan x="10" y="43.0910339">T</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-18" transform="translate(345.000000, 60.000000)">
+                <rect id="Key" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id="D" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="13.7963636" y="27"></tspan>
+                    <tspan x="10" y="43.0910339">D</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-19" transform="translate(405.000000, 60.000000)">
+                <rect id="Key" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id="H" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="13.7963636" y="27"></tspan>
+                    <tspan x="10" y="43.0910339">H</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-20" transform="translate(465.000000, 60.000000)">
+                <rect id="Key" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id="N" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="13.7963636" y="27"></tspan>
+                    <tspan x="10" y="43.0910339">N</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-21" transform="translate(525.000000, 60.000000)">
+                <rect id="Key" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id="E" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="13.7963636" y="27"></tspan>
+                    <tspan x="10" y="43.0910339">E</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-22" transform="translate(585.000000, 60.000000)">
+                <rect id="Key" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id="I" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="13.7963636" y="27"></tspan>
+                    <tspan x="10" y="43.0910339">I</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-23" transform="translate(645.000000, 60.000000)">
+                <rect id="Key" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id="O" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="13.7963636" y="27"></tspan>
+                    <tspan x="10" y="43.0910339">O</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-24" transform="translate(705.000000, 60.000000)">
+                <rect id="Key" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id="Ä" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="13.7963636" y="27"></tspan>
+                    <tspan x="10" y="43.0910339">Ä</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-26" transform="translate(765.000000, 60.000000)">
+                <rect id="Key" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id="*-‘" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="10" y="27">  </tspan>
+                    <tspan x="33.1106313" y="27" font-family="Input-Italic, Input" font-style="italic">*</tspan>
+                    <tspan x="49.1495833" y="32.9089661"></tspan>
+                    <tspan x="10" y="49">‘</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-27" transform="translate(825.000000, 0.000000)">
+                <rect id="Key" stroke="#000000" fill-opacity="0.25" fill="#D8D8D8" fill-rule="nonzero" x="0.5" y="0.5" width="70" height="115" rx="14"></rect>
+                <text id="Cr" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="10" y="87"> </tspan>
+                    <tspan x="10" y="109">Cr</tspan>
+                </text>
+                <text id="⏎" font-family="HiraginoSans-W3, Hiragino Sans" font-size="24" font-weight="300" line-spacing="22" letter-spacing="0.4398148" fill="#000000">
+                    <tspan x="39" y="29">⏎</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="TOP-ROW" transform="translate(2.000000, 62.000000)">
+            <g id="Group-Copy" transform="translate(90.000000, 0.000000)">
+                <rect id="Key" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id="Q" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="13.7963636" y="27"></tspan>
+                    <tspan x="10" y="43.0910339">Q</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-13">
+                <rect id="Key" stroke="#000000" fill-opacity="0.25" fill="#D8D8D8" fill-rule="nonzero" x="0.5" y="0.5" width="85" height="55" rx="14"></rect>
+                <text id="⇥-Tab" font-family="ArialUnicodeMS, Arial Unicode MS" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="8" y="26.875">          </tspan>
+                    <tspan x="55.2409938" y="22" font-size="24">⇥</tspan>
+                    <tspan x="96.9497612" y="26.875" font-family="Input-Regular, Input"></tspan>
+                    <tspan x="22.4057848" y="46.9660339" font-family="Input-Regular, Input">Tab</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-2" transform="translate(150.000000, 0.000000)">
+                <rect id="Key" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id="W" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="13.7963636" y="27"></tspan>
+                    <tspan x="10" y="43.0910339">W</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-3" transform="translate(210.000000, 0.000000)">
+                <rect id="Key" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id="F" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="13.7963636" y="27"></tspan>
+                    <tspan x="10" y="43.0910339">F</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-4" transform="translate(270.000000, 0.000000)">
+                <rect id="Key" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id="P" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="13.7963636" y="27"></tspan>
+                    <tspan x="10" y="43.0910339">P</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-5" transform="translate(330.000000, 0.000000)">
+                <rect id="Key" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id="G" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="13.7963636" y="27"></tspan>
+                    <tspan x="10" y="43.0910339">G</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-6" transform="translate(390.000000, 0.000000)">
+                <rect id="Key" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id="J" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="13.7963636" y="27"></tspan>
+                    <tspan x="10" y="43.0910339">J</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-7" transform="translate(450.000000, 0.000000)">
+                <rect id="Key" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id="L" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="13.7963636" y="27"></tspan>
+                    <tspan x="10" y="43.0910339">L</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-8" transform="translate(510.000000, 0.000000)">
+                <rect id="Key" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id="U" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="13.7963636" y="27"></tspan>
+                    <tspan x="10" y="43.0910339">U</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-9" transform="translate(570.000000, 0.000000)">
+                <rect id="Key" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id="Y" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="13.7963636" y="27"></tspan>
+                    <tspan x="10" y="43.0910339">Y</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-10" transform="translate(630.000000, 0.000000)">
+                <rect id="Key" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id="Ö" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="13.7963636" y="27"></tspan>
+                    <tspan x="10" y="43.0910339">Ö</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-11" transform="translate(690.000000, 0.000000)">
+                <rect id="Key" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id="Å" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="13.7963636" y="27"></tspan>
+                    <tspan x="10" y="43.0910339">Å</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy-12" transform="translate(750.000000, 0.000000)">
+                <rect id="Key" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id="^-¨-~" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="10" y="27">  </tspan>
+                    <tspan x="33.1106313" y="27" font-family="Input-Italic, Input" font-style="italic">^</tspan>
+                    <tspan x="49.1495833" y="32.9089661"></tspan>
+                    <tspan x="10" y="49">¨ </tspan>
+                    <tspan x="33.5688131" y="49" fill-opacity="0.5">~</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="NR-ROW" transform="translate(2.000000, 2.000000)">
+            <g id="Group" transform="translate(60.000000, 0.000000)">
+                <rect id="Key" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id="!-1-‽" font-family="Input-Italic, Input" font-size="18" font-style="italic" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="10" y="25">  !</tspan>
+                    <tspan x="49.6077651" y="28.9089661" font-family="Input-Regular, Input"></tspan>
+                    <tspan x="10.4581818" y="47" font-family="Input-Regular, Input">1 </tspan>
+                    <tspan x="26.8458195" y="47.9011536" font-family="Monaco" fill-opacity="0.5">‽</tspan>
+                </text>
+            </g>
+            <g id="Group-14">
+                <rect id="Key" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id="°-§-¶" font-family="Input-Italic, Input" font-size="18" font-style="italic" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="10" y="27">  °</tspan>
+                    <tspan x="49.6077651" y="32.9089661" font-family="Input-Regular, Input"></tspan>
+                    <tspan x="10.4581818" y="49" font-family="Input-Regular, Input">§ </tspan>
+                    <tspan x="34.0269949" y="49" font-family="Input-Regular, Input" fill-opacity="0.5">¶</tspan>
+                </text>
+            </g>
+            <g id="Group-2" transform="translate(120.000000, 0.000000)">
+                <rect id="Key-Copy" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id="“-2-@" font-family="Input-Italic, Input" font-size="18" font-style="italic" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="10" y="27">  “</tspan>
+                    <tspan x="49.6077651" y="32.9089661" font-family="Input-Regular, Input"></tspan>
+                    <tspan x="10.4581818" y="49" font-family="Input-Regular, Input">2 </tspan>
+                    <tspan x="34.0269949" y="49" font-family="Input-Regular, Input" fill-opacity="0.5">@</tspan>
+                </text>
+            </g>
+            <g id="Group-3" transform="translate(180.000000, 0.000000)">
+                <rect id="Key-Copy-2" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id="#-3-£" font-family="Input-Italic, Input" font-size="18" font-style="italic" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="10" y="27">  #</tspan>
+                    <tspan x="49.6077651" y="32.9089661" font-family="Input-Regular, Input"></tspan>
+                    <tspan x="10.4581818" y="49" font-family="Input-Regular, Input">3 </tspan>
+                    <tspan x="34.0269949" y="49" font-family="Input-Regular, Input" fill-opacity="0.5">£</tspan>
+                </text>
+            </g>
+            <g id="Group-4" transform="translate(240.000000, 0.000000)">
+                <rect id="Key-Copy-3" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id="€-4-$" font-family="Input-Italic, Input" font-size="18" font-style="italic" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="10" y="27">  €</tspan>
+                    <tspan x="49.6077651" y="32.9089661" font-family="Input-Regular, Input"></tspan>
+                    <tspan x="10.4581818" y="49" font-family="Input-Regular, Input">4 </tspan>
+                    <tspan x="34.0269949" y="49" font-family="Input-Regular, Input" fill-opacity="0.5">$</tspan>
+                </text>
+            </g>
+            <g id="Group-5" transform="translate(300.000000, 0.000000)">
+                <rect id="Key-Copy-4" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id="%-5-∞" font-family="Input-Italic, Input" font-size="18" font-style="italic" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="10" y="27">  %</tspan>
+                    <tspan x="49.6077651" y="32.9089661" font-family="Input-Regular, Input"></tspan>
+                    <tspan x="10.4581818" y="49" font-family="Input-Regular, Input">5 </tspan>
+                    <tspan x="34.0269949" y="49" font-family="Input-Regular, Input" fill-opacity="0.5">∞</tspan>
+                </text>
+            </g>
+            <g id="Group-6" transform="translate(360.000000, 0.000000)">
+                <rect id="Key-Copy-5" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id="&amp;-6-§" font-family="Input-Italic, Input" font-size="18" font-style="italic" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="10" y="27">  &amp;</tspan>
+                    <tspan x="49.6077651" y="32.9089661" font-family="Input-Regular, Input"></tspan>
+                    <tspan x="10.4581818" y="49" font-family="Input-Regular, Input">6 </tspan>
+                    <tspan x="34.0269949" y="49" font-family="Input-Regular, Input" fill-opacity="0.5">§</tspan>
+                </text>
+            </g>
+            <g id="Group-7" transform="translate(420.000000, 0.000000)">
+                <rect id="Key-Copy-6" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id="/-7-|" font-family="Input-Italic, Input" font-size="18" font-style="italic" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="10" y="27">  /</tspan>
+                    <tspan x="49.6077651" y="32.9089661" font-family="Input-Regular, Input"></tspan>
+                    <tspan x="10.4581818" y="49" font-family="Input-Regular, Input">7 </tspan>
+                    <tspan x="34.0269949" y="49" font-family="Input-Regular, Input" fill-opacity="0.5">|</tspan>
+                </text>
+            </g>
+            <g id="Group-8" transform="translate(480.000000, 0.000000)">
+                <rect id="Key-Copy-7" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id="(-8-[" font-family="Input-Italic, Input" font-size="18" font-style="italic" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="10" y="27">  (</tspan>
+                    <tspan x="49.6077651" y="32.9089661" font-family="Input-Regular, Input"></tspan>
+                    <tspan x="10.4581818" y="49" font-family="Input-Regular, Input">8 </tspan>
+                    <tspan x="34.0269949" y="49" font-family="Input-Regular, Input" fill-opacity="0.5">[</tspan>
+                </text>
+            </g>
+            <g id="Group-9" transform="translate(540.000000, 0.000000)">
+                <rect id="Key-Copy-8" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id=")-9-]" font-family="Input-Italic, Input" font-size="18" font-style="italic" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="10" y="27">  )</tspan>
+                    <tspan x="49.6077651" y="32.9089661" font-family="Input-Regular, Input"></tspan>
+                    <tspan x="10.4581818" y="49" font-family="Input-Regular, Input">9 </tspan>
+                    <tspan x="34.0269949" y="49" font-family="Input-Regular, Input" fill-opacity="0.5">]</tspan>
+                </text>
+            </g>
+            <g id="Group-10" transform="translate(600.000000, 0.000000)">
+                <rect id="Key-Copy-9" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id="=-0-≈" font-family="Input-Italic, Input" font-size="18" font-style="italic" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="10" y="27">  =</tspan>
+                    <tspan x="49.6077651" y="32.9089661" font-family="Input-Regular, Input"></tspan>
+                    <tspan x="10.4581818" y="49" font-family="Input-Regular, Input">0 </tspan>
+                    <tspan x="34.0269949" y="49" font-family="Input-Regular, Input" fill-opacity="0.5">≈</tspan>
+                </text>
+            </g>
+            <g id="Group-11" transform="translate(660.000000, 0.000000)">
+                <rect id="Key-Copy-10" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id="?-+" font-family="Input-Italic, Input" font-size="18" font-style="italic" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="10" y="27">  ?</tspan>
+                    <tspan x="49.6077651" y="32.9089661" font-family="Input-Regular, Input"></tspan>
+                    <tspan x="10.4581818" y="49" font-family="Input-Regular, Input">+ </tspan>
+                </text>
+            </g>
+            <g id="Group-12" transform="translate(720.000000, 0.000000)">
+                <rect id="Key-Copy-11" stroke="#000000" fill-rule="nonzero" x="0.5" y="0.5" width="55" height="55" rx="14"></rect>
+                <text id="`-´" font-family="Input-Italic, Input" font-size="18" font-style="italic" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="10" y="27">  `</tspan>
+                    <tspan x="49.6077651" y="32.9089661" font-family="Input-Regular, Input"></tspan>
+                    <tspan x="10.4581818" y="49" font-family="Input-Regular, Input">´ </tspan>
+                </text>
+            </g>
+            <g id="Group-13" transform="translate(780.000000, 0.000000)">
+                <rect id="Key-Copy-12" stroke="#000000" fill-opacity="0.25" fill="#D8D8D8" fill-rule="nonzero" x="0.5" y="0.5" width="115" height="55" rx="14"></rect>
+                <text id="←-Bsp" font-family="Input-Italic, Input" font-size="18" font-style="italic" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="10" y="27">       </tspan>
+                    <tspan x="92.9490277" y="27" font-family="Input-Regular, Input">←</tspan>
+                    <tspan x="10.4581818" y="49" font-family="Input-Regular, Input">Bsp </tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
