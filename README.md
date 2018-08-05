@@ -37,7 +37,9 @@ A system restart is required for the layout to show up in the 'Input Sources' pa
 Download the entire folder and run setup.exe.
 
 ## Learning Colemak
-For resources on how to learn Colemak, see the [official Colemak website](https://colemak.com/Learn#Tips_for_learning). In the extras folder, you can find print out pdf:s for easy reference.
+For resources on how to learn Colemak, see the [official Colemak website](https://colemak.com/Learn#Tips_for_learning). 
+
+In the [extras](./extras/reference-sheet-A4_colemak-se.pdf) folder, you can find print out pdf:s for easy reference.
 
 ## Attributions
 * MacOS keyboard layout created using [Ukelele.](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=Ukelele) 
