@@ -6,9 +6,9 @@ _The Colemak keyboard layout adapted for the Swedish language._
 The Colemak layout was originally created by Shai Coleman in 2006 as an ergonomic and modern keyboard layout, bringing together the comfort of Dvorak while retaining a lot of QWERTY familiarity. It employs a home row centric design placing frequently used keys under the strongest fingers. While the original layout is optimised for the English language, its Germanic roots also make it suitable for use when writing Swedish.
 
 ## Scope
-* Colemak-se aims to bring a Swedish language adaption of Colemak to all modern operating systems. 
+* Colemak-SE aims to bring a Swedish language adaption of Colemak to all modern operating systems. 
 * The base layout targets 102-key keyboards, as these are the far most widely used in Sweden. 
-* Colemak-se makes as few key changes as possible in order to ease the often brutal learning process.
+* Colemak-SE makes as few key changes as possible in order to ease the often brutal learning process.
 
 Currently, only MacOS and Windows keyboard layouts are available. Linux support and QMK files are under development. Any pull requests with new implementations are greatly appreciated!
 
@@ -21,12 +21,20 @@ Colemak-SE does not provide full `ÅÄÖ` parity with QWERTY. The `Ö-key` has b
 ## Installation
 
 ### MacOS
-Keyboard layouts in MacOS are installed either on a user or system level.
+To install the layout, simply put the `colemak-se.bundle` in the folder `/Library/Keyboard Layouts`. This will install the layout on a system level, which is usually what you want. If you prefer to have the layout on a user level, place it in the user library instead `~/Library/Keyboard Layouts`.
 
-Alternatively, a `.dmg` disk image is provided for easy GUI based installation. System restart is still required for the layout to show up in 'Input Sources'. Note that this method will install the keyboard layout on a system level.
+To install via the terminal:
+```bash
+wget https://github.com/motform/colemak-se/tree/master/release/macos/colemak-se.bundle
+mv colemak-se.bundle /Library/Keyboard\ Layouts
+```
+
+If you feel uncomfortable using the terminal, a `.dmg` disk image is provided for easy GUI based installation. Open the disk image and follow the instructions on screen. 
+
+A system restart is required for the layout to show up in the 'Input Sources' panel, which is accessable though: `System Preferences/Keyboard/Input Sources`. To add a new layout, press the `+`. This takes you to a list of input sources, if your installation went well, Colemak-SE should show up as a layoutoption in the `Swedish` submenu add the layout, and start using Colemak-SE!
 
 ### Windows
-tba
+Download the entire folder and run setup.exe.
 
 ## Learning Colemak
 For resources on how to learn Colemak, see the [official Colemak website](https://colemak.com/Learn#Tips_for_learning). In the extras folder, you can find print out pdf:s for easy reference.
