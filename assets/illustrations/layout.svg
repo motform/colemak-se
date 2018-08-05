@@ -21,20 +21,16 @@
         </g>
         <g id="Group-Copy-45" transform="translate(602.000000, 242.000000)">
             <rect id="Key" stroke="#000000" fill-opacity="0.25" fill="#D8D8D8" fill-rule="nonzero" x="0.5" y="0.5" width="85" height="55" rx="14"></rect>
-            <text id="⎇-Alt" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
-                <tspan x="8" y="24">    </tspan>
-                <tspan x="53.1507867" y="29.6296692" font-family="AppleSymbols, Apple Symbols">⎇</tspan>
-                <tspan x="77.8615072" y="29.9089661"></tspan>
-                <tspan x="8" y="46">Alt</tspan>
+            <text id="Alt" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                <tspan x="11.7963636" y="27"></tspan>
+                <tspan x="8" y="43.0910339">Alt</tspan>
             </text>
         </g>
         <g id="Group-Copy-46" transform="translate(152.000000, 242.000000)">
             <rect id="Key" stroke="#000000" fill-opacity="0.25" fill="#D8D8D8" fill-rule="nonzero" x="0.5" y="0.5" width="85" height="55" rx="14"></rect>
-            <text id="⎇-Alt" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
-                <tspan x="8" y="24">    </tspan>
-                <tspan x="53.1507867" y="29.6296692" font-family="AppleSymbols, Apple Symbols">⎇</tspan>
-                <tspan x="77.8615072" y="29.9089661"></tspan>
-                <tspan x="8" y="46">Alt</tspan>
+            <text id="Alt" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                <tspan x="12.7963636" y="27"></tspan>
+                <tspan x="9" y="43.0910339">Alt</tspan>
             </text>
         </g>
         <g id="Group-Copy-47" transform="translate(242.000000, 242.000000)">
@@ -140,11 +136,9 @@
             </g>
             <g id="Group-Copy-39" transform="translate(735.000000, 0.000000)">
                 <rect id="Key" stroke="#000000" fill-opacity="0.25" fill="#D8D8D8" fill-rule="nonzero" x="0.5" y="0.5" width="160" height="55" rx="14"></rect>
-                <text id="⇧-Shift" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
-                    <tspan x="10" y="25.9660339">           </tspan>
-                    <tspan x="119.155304" y="23" font-family="ArialUnicodeMS, Arial Unicode MS" font-size="24">⇧</tspan>
-                    <tspan x="160.864072" y="27.875"></tspan>
-                    <tspan x="10" y="47.9660339">Shift</tspan>
+                <text id="Shift" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="13.7963636" y="27"></tspan>
+                    <tspan x="10" y="43.0910339">Shift</tspan>
                 </text>
             </g>
             <g id="Group-Copy-29" transform="translate(75.000000, 0.000000)">
@@ -158,8 +152,9 @@
             </g>
             <g id="Group-Copy-40">
                 <rect id="Key" stroke="#000000" fill-opacity="0.25" fill="#D8D8D8" fill-rule="nonzero" x="0.5" y="0.5" width="70" height="55" rx="14"></rect>
-                <text id="⇧" font-family="ArialUnicodeMS, Arial Unicode MS" font-size="24" font-weight="normal" line-spacing="22" letter-spacing="0.4398148" fill="#000000">
-                    <tspan x="46" y="28">⇧</tspan>
+                <text id="Sft" font-family="Input-Regular, Input" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="11.7963636" y="27"></tspan>
+                    <tspan x="8" y="43.0910339">Sft</tspan>
                 </text>
             </g>
         </g>
@@ -173,11 +168,9 @@
             </g>
             <g id="Group-Copy-25" transform="translate(0.000000, 60.000000)">
                 <rect id="Key" stroke="#000000" fill-opacity="0.25" fill="#D8D8D8" fill-rule="nonzero" x="0.5" y="0.5" width="100" height="55" rx="14"></rect>
-                <text id="⇪-Caps" font-family="ArialUnicodeMS, Arial Unicode MS" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
-                    <tspan x="8" y="26.875">             </tspan>
-                    <tspan x="71.2335068" y="22" font-size="24">⇪</tspan>
-                    <tspan x="112.942274" y="26.875" font-family="Input-Regular, Input"></tspan>
-                    <tspan x="22.4057848" y="46.9660339" font-family="Input-Regular, Input">Caps</tspan>
+                <text id="Caps" font-family="ArialUnicodeMS, Arial Unicode MS" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="11.7963636" y="26"></tspan>
+                    <tspan x="8" y="43.0910339" font-family="Input-Regular, Input">Caps</tspan>
                 </text>
             </g>
             <g id="Group-Copy-15" transform="translate(165.000000, 60.000000)">
@@ -280,11 +273,9 @@
             </g>
             <g id="Group-Copy-13">
                 <rect id="Key" stroke="#000000" fill-opacity="0.25" fill="#D8D8D8" fill-rule="nonzero" x="0.5" y="0.5" width="85" height="55" rx="14"></rect>
-                <text id="⇥-Tab" font-family="ArialUnicodeMS, Arial Unicode MS" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
-                    <tspan x="8" y="26.875">          </tspan>
-                    <tspan x="55.2409938" y="22" font-size="24">⇥</tspan>
-                    <tspan x="96.9497612" y="26.875" font-family="Input-Regular, Input"></tspan>
-                    <tspan x="22.4057848" y="46.9660339" font-family="Input-Regular, Input">Tab</tspan>
+                <text id="Tab" font-family="ArialUnicodeMS, Arial Unicode MS" font-size="18" font-weight="normal" line-spacing="22" letter-spacing="0.3298611" fill="#000000">
+                    <tspan x="11.7963636" y="26"></tspan>
+                    <tspan x="8" y="43.0910339" font-family="Input-Regular, Input">Tab</tspan>
                 </text>
             </g>
             <g id="Group-Copy-2" transform="translate(150.000000, 0.000000)">
