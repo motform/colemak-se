@@ -6,7 +6,9 @@ _The Colemak keyboard layout adapted for the Swedish language._
 The Colemak layout was originally created by Shai Coleman in 2006 as an ergonomic and modern keyboard layout, bringing together the comfort of Dvorak while retaining a lot of QWERTY familiarity. It employs a home row centric design placing frequently used keys under the strongest fingers. While the original layout is optimised for the English language, its Germanic roots also make it suitable for use when writing Swedish.
 
 ## Scope
-Colemak-se aims to bring a Swedish language adaption of Colemak to all and any computer operating systems. The layout targets 102-key keyboards, as these are the by far most widely used in Sweden. It tries to change as few keys as possible in order to ease the often brutal learning process.
+* Colemak-se aims to bring a Swedish language adaption of Colemak to any and all modern computer operating systems. 
+* The base layout targets 102-key keyboards, as these are the by far most widely used in Sweden. 
+* Colemak-se makes as few key changes as possible in order to ease the often brutal learning process.
 
 Currently, only MacOS and Windows keyboard layouts are available. Linux support and QMK files are under development. Any pull requests with new implementations are greatly appreciated!
 
