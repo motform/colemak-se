@@ -11,7 +11,7 @@ Colemak-se aims to bring a Swedish language adaption of Colemak to all and any c
 Currently, only MacOS and Windows keyboard layouts are available. Linux support and QMK files are under development. Any pull requests with new implementations are greatly appreciated!
 
 ## Layout
-[Colemak-se Layout](https://github.com/motform/colemak-se/assets/illustration/layout.png)
+![illustration of colemak-se layout](./assets/illustrations/layout.svg)
 
 #### ÅÄÖ-placement
 Colemak-SE does not provide full ÅÄÖ parity with QWERTY. The 'Ö-key' has been moved up a row to where the 'P-key' is on QWERTY, to make room for the default Colemak placement of the 'O-key'.
