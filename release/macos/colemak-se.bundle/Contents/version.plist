@@ -3,10 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>BuildVersion</key>
-	<string>0.1</string>
+	<string>0.5</string>
 	<key>ProjectName</key>
 	<string>colemak-se</string>
 	<key>SourceVersion</key>
-	<string>0.1</string>
+	<string>1.0</string>
 </dict>
 </plist>
