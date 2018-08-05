@@ -13,7 +13,7 @@ The Colemak layout was originally created by Shai Coleman in 2006 as an ergonomi
 Currently, only MacOS and Windows keyboard layouts are available. Linux support and QMK files are under development. Any pull requests with new implementations are greatly appreciated!
 
 ## Layout
-![illustration of colemak-se layout](./assets/illustrations/layout.svg)
+![illustration of colemak-se layout](./assets/illustrations/layout.png)
 
 #### ÅÄÖ-placement
 Colemak-SE does not provide full `ÅÄÖ` parity with QWERTY. The `Ö-key` has been moved up a row to where the `P-key` is on QWERTY, to make room for the default Colemak placement of the `O-key`.
