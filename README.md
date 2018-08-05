@@ -40,7 +40,9 @@ Download the entire folder and run setup.exe.
 For resources on how to learn Colemak, see the [official Colemak website](https://colemak.com/Learn#Tips_for_learning). In the extras folder, you can find print out pdf:s for easy reference.
 
 ## Attributions
-MacOS keyboard layout created using [Ukelele.](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=Ukelele) Original Colemak-SE developed in collaboration with [Jakobaa](https://github.com/jakobaa).
+* MacOS keyboard layout created using [Ukelele.](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=Ukelele) 
+* Original Colemak-SE developed in collaboration with [Jakobaa](https://github.com/jakobaa).
+* All illustrations are set in [Input](http://input.fontbureau.com) by [DJR](https://djr.com). Free for personal use and amazing for code!
 
 ## Licence
 Original Colemak layout license is provided as is. For more information, se the [Colemak Website](https://colemak.com/License). All the files in this repo are licensed under GPL-3.0, see [LICENSE.](./LICENSE)
