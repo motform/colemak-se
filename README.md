@@ -20,12 +20,12 @@ Colemak-SE does not provide full `ÅÄÖ` parity with QWERTY. The `Ö-key` has b
 
 ## Installation
 
-#### MacOS
+### MacOS
 Keyboard layouts in MacOS are installed either on a user or system level.
 
 Alternatively, a `.dmg` disk image is provided for easy GUI based installation. System restart is still required for the layout to show up in 'Input Sources'. Note that this method will install the keyboard layout on a system level.
 
-#### Windows
+### Windows
 tba
 
 ## Learning Colemak
