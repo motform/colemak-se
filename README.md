@@ -44,7 +44,7 @@ In the [extras](./extras/reference-sheet-A4_colemak-se.pdf) folder, you can find
 ## Attributions
 * MacOS keyboard layout created using [Ukelele.](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=Ukelele) 
 * Original Colemak-SE developed in collaboration with [Jakobaa](https://github.com/jakobaa).
-* All illustrations are set in [Input](http://input.fontbureau.com) by [DJR](https://djr.com). Free for personal use and amazing for code!
+* All illustrations are set in [Input](http://input.fontbureau.com) by [DJR](https://djr.com). Free for private use and amazing for code!
 
 ## Licence
 Original Colemak layout license is provided as is. For more information, se the [Colemak Website](https://colemak.com/License). All the files in this repo are licensed under GPL-3.0, see [LICENSE.](./LICENSE)
