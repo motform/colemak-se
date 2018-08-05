@@ -16,14 +16,14 @@ Currently, only MacOS and Windows keyboard layouts are available. Linux support 
 ![illustration of colemak-se layout](./assets/illustrations/layout.svg)
 
 #### ÅÄÖ-placement
-Colemak-SE does not provide full ÅÄÖ parity with QWERTY. The 'Ö-key' has been moved up a row to where the 'P-key' is on QWERTY, to make room for the default Colemak placement of the 'O-key'.
+Colemak-SE does not provide full `ÅÄÖ` parity with QWERTY. The `Ö-key` has been moved up a row to where the `P-key` is on QWERTY, to make room for the default Colemak placement of the `O-key`.
 
 ## Installation
 
 #### MacOS
 Keyboard layouts in MacOS are installed either on a user or system level.
 
-Alternatively, a '.dmg' disk image is provided for easy GUI based installation. System restart is still required for the layout to show up in 'Input Sources'. Note that this method will install the keyboard layout on a system level.
+Alternatively, a `.dmg` disk image is provided for easy GUI based installation. System restart is still required for the layout to show up in 'Input Sources'. Note that this method will install the keyboard layout on a system level.
 
 #### Windows
 tba
@@ -35,5 +35,4 @@ For resources on how to learn Colemak, see the [official Colemak website](https:
 MacOS keyboard layout created using [Ukulele.](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=Ukelele) Original Colemak-SE developed in collaboration with [Jakobaa](https://github.com/jakobaa).
 
 ## Licence
-Original Colemak layout license is provided as is. For more information, se the [Colemak Website](https://colemak.com/License). All the files in this repo are licensed under GPL-3.0, see [LICENSE.](./LICENSE) 
-
+Original Colemak layout license is provided as is. For more information, se the [Colemak Website](https://colemak.com/License). All the files in this repo are licensed under GPL-3.0, see [LICENSE.](./LICENSE)
