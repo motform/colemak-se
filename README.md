@@ -12,15 +12,15 @@ The Colemak layout was originally created by Shai Coleman in 2006 as an ergonomi
 
 Currently, only MacOS and Windows keyboard layouts are available. Linux support and QMK files are under development. Any pull requests with new implementations are greatly appreciated!
 
-## Layout
+# Layout
 ![illustration of colemak-se layout](./assets/illustrations/layout.png)
 
 #### ÅÄÖ-placement
 Colemak-SE does not provide full `ÅÄÖ` parity with QWERTY. The `Ö-key` has been moved up a row to where the `P-key` is on QWERTY, to make room for the default Colemak placement of the `O-key`.
 
-## Installation
+# Installation
 
-### MacOS
+## MacOS
 To install the layout, simply put the `colemak-se.bundle` in the folder `/Library/Keyboard Layouts`. This will install the layout on a system level, which is usually what you want. If you prefer to have the layout on a user level, place it in the user library instead `~/Library/Keyboard Layouts`.
 
 To install via the terminal:
@@ -33,18 +33,18 @@ If you feel uncomfortable using the terminal, a `.dmg` disk image is provided fo
 
 A system restart is required for the layout to show up in the 'Input Sources' panel, which is accessable though: `System Preferences/Keyboard/Input Sources`. To add a new layout, press the `+`. This takes you to a list of input sources, if your installation went well, Colemak-SE should show up as a layoutoption in the `Swedish` submenu add the layout, and start using Colemak-SE!
 
-### Windows
+## Windows
 Download the entire folder and run setup.exe.
 
-## Learning Colemak
+# Learning Colemak
 For resources on how to learn Colemak, see the [official Colemak website](https://colemak.com/Learn#Tips_for_learning). 
 
 In the [extras](./extras/reference-sheet-A4_colemak-se.pdf) folder, you can find print out pdf:s for easy reference.
 
-## Attributions
+# Attributions
 * MacOS keyboard layout created using [Ukelele.](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=Ukelele) 
 * Original Colemak-SE developed in collaboration with [Jakobaa](https://github.com/jakobaa).
 * All illustrations are set in [Input](http://input.fontbureau.com) by [DJR](https://djr.com). Free for private use and amazing for code!
 
-## Licence
+# Licence
 Original Colemak layout license is provided as is. For more information, se the [Colemak Website](https://colemak.com/License). All the files in this repo are licensed under GPL-3.0, see [LICENSE.](./LICENSE)
