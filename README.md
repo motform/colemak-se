@@ -30,12 +30,12 @@ $ unzip colemak-se.bundle.zip && rm colemak-se.bundle.zip &&
 $ mv colemak-se.bundle /Library/Keyboard\ Layouts
 ```
 
-If you feel uncomfortable using the terminal, a `.dmg` disk image is provided for easy GUI based installation. Open the disk image and follow the instructions on screen. 
+If you feel uncomfortable using the terminal, a [`.dmg`](https://github.com/motform/colemak-se/releases/download/1.0/colemak-se.dmg) disk image is provided for easy GUI based installation. Just mount the disk image and follow the instructions on screen. 
 
 A system restart is required for the layout to show up in the 'Input Sources' panel, which is accessable though: `System Preferences/Keyboard/Input Sources`. To add a new layout, press the `+`. This takes you to a list of input sources, if your installation went well, Colemak-SE should show up as a layoutoption in the `Swedish` submenu add the layout, and start using Colemak-SE!
 
 ## Windows
-Download the entire folder and run setup.exe.
+Download the [compressed folder](https://github.com/motform/colemak-se/releases/download/1.0/windows-colemak-se.zip) and run setup.exe.
 
 # Learning Colemak
 For resources on how to learn Colemak, see the [official Colemak website](https://colemak.com/Learn#Tips_for_learning). 
