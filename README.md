@@ -25,7 +25,8 @@ To install the layout, simply put the `colemak-se.bundle` in the folder `/Librar
 
 To install via the terminal:
 ```bash
-wget https://github.com/motform/colemak-se/tree/master/release/macos/colemak-se.bundle
+curl https://github.com/motform/colemak-se/releases/download/1.0/colemak-se.bundle.zip -o colemak-se.bundle.zip
+unzip colemak-se.bundle.zip && rm colemak-se.bundle.zip && rm colemak-se.bundle.zip
 mv colemak-se.bundle /Library/Keyboard\ Layouts
 ```
 
