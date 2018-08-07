@@ -25,9 +25,9 @@ To install the layout, simply put the `colemak-se.bundle` in the folder `/Librar
 
 To install via the terminal:
 ```bash
-curl https://github.com/motform/colemak-se/releases/download/1.0/colemak-se.bundle.zip -o colemak-se.bundle.zip
-unzip colemak-se.bundle.zip && rm colemak-se.bundle.zip && rm colemak-se.bundle.zip
-mv colemak-se.bundle /Library/Keyboard\ Layouts
+$ curl https://github.com/motform/colemak-se/releases/download/1.0/colemak-se.bundle.zip -o colemak-se.bundle.zip
+$ unzip colemak-se.bundle.zip && rm colemak-se.bundle.zip && rm colemak-se.bundle.zip
+$ mv colemak-se.bundle /Library/Keyboard\ Layouts
 ```
 
 If you feel uncomfortable using the terminal, a `.dmg` disk image is provided for easy GUI based installation. Open the disk image and follow the instructions on screen. 
