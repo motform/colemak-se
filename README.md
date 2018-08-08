@@ -42,6 +42,10 @@ For resources on how to learn Colemak, see the [official Colemak website](https:
 
 In the [extras](./extras/reference-sheet-A4_colemak-se.pdf) folder, you can find print out pdf:s for easy reference.
 
+# Issues
+* The MacOS implementation sometimes has strange behaviour when using ctrl-modifier.
+* The MacOS implementation only has .incs for 'dark mode'.
+
 # Attributions
 * MacOS keyboard layout created using [Ukelele.](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=Ukelele) 
 * Original Colemak-SE developed in collaboration with [Jakobaa](https://github.com/jakobaa).
