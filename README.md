@@ -10,7 +10,7 @@ The Colemak layout was originally created by Shai Coleman in 2006 as an ergonomi
 * The base layout targets 102-key keyboards, as these are the far most widely used in Sweden. 
 * Colemak-SE makes as few key changes as possible in order to ease the often brutal learning process.
 
-Currently, only MacOS and Windows keyboard layouts are available. Linux support and QMK files are under development. Any pull requests with new implementations are greatly appreciated!
+Currently, only macOS and Windows keyboard layouts are available. Linux support and QMK files are under development. Any pull requests with new implementations are greatly appreciated!
 
 # Layout
 ![illustration of colemak-se layout](./assets/illustrations/layout.png)
@@ -20,7 +20,7 @@ Colemak-SE does not provide full `ÅÄÖ` parity with QWERTY. The `Ö-key` has b
 
 # Installation
 
-## MacOS
+## macOS
 To install the layout, simply put the `colemak-se.bundle` in the folder `/Library/Keyboard Layouts`. This will install the layout on a system level, which is usually what you want. If you prefer to have the layout on a user level, place it in the user library instead `~/Library/Keyboard Layouts`.
 
 To install via the terminal:
@@ -43,11 +43,11 @@ For resources on how to learn Colemak, see the [official Colemak website](https:
 In the [extras](./extras/reference-sheet-A4_colemak-se.pdf) folder, you can find print out pdf:s for easy reference.
 
 # Issues
-* The MacOS implementation sometimes has strange behaviour when using ctrl-modifier.
-* The MacOS implementation only has .incs for 'dark mode'.
+* The macOS implementation sometimes has strange behaviour when using ctrl-modifier.
+* The macOS implementation only has .incs for 'dark mode'.
 
 # Attributions
-* MacOS keyboard layout created using [Ukelele.](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=Ukelele) 
+* macOS keyboard layout created using [Ukelele.](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=Ukelele) 
 * Original Colemak-SE developed in collaboration with [Jakobaa](https://github.com/jakobaa).
 * All illustrations are set in [Input](http://input.fontbureau.com) by [DJR](https://djr.com). Free for private use and amazing for code!
 
