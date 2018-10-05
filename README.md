@@ -37,6 +37,11 @@ A system restart is required for the layout to show up in the 'Input Sources' pa
 ## Windows
 Download the [compressed folder](https://github.com/motform/colemak-se/releases/download/1.0/windows-colemak-se.zip) and run setup.exe.
 
+## Linux
+Getting keyboard layouts to work with your flavor of Linux can be a bit of an hassle, depending on how your keyboard stack looks. Currently there are two working branches for `xmodmap` and `xkb` implementations. The project goal is to to provide parity with the opitons listed the [English Colemak website](https://colemak.com/Unix).
+
+The `xmodmoap` implementation is regarded as stable, and can be used without superuser rights if `xmodmap` is already present. `xkb` has prooven to be a bit shaky at times, but is a more permanent option.
+
 # Learning Colemak
 For resources on how to learn Colemak, see the [official Colemak website](https://colemak.com/Learn#Tips_for_learning). 
 
