@@ -57,11 +57,7 @@ keycode  58 =            m             M      dead_macron        asciitilde
 ! keycode  65 =        space         space            space      nobreakspace
 ! keycode 113 =  Mode_switch   Mode_switch
 
-! Swap caps lock and escape
-remove Lock = Caps_Lock
-keysym Escape = Caps_Lock
-keysym Caps_Lock = Escape
-add Lock = Caps_Lock
+clear Lock
 
 !clear Shift
 !clear Control
