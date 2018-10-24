@@ -24,11 +24,11 @@ Colemak-SE does not provide full `ÅÄÖ` parity with QWERTY. The `Ö-key` has b
 The Linux implementation of Colemak-SE aims to mirror the [English Colemak website](https://colemak.com/Unix). There are a few diffient ways to do it, all with thier neuances.
 
 ### xmodmap
-[`xmodmap`] is a utility for modifying keymaps in [`Xorg`]. It modifies the layout temporarily and does not require root access.
+`xmodmap` is a utility for modifying keymaps in `Xorg`. It modifies the layout temporarily and does not require root access.
 
-1. Download the [`xmodmap release`].
+1. Download the `xmodmap release`.
 2. Open a terminal window and navigate to the file.
-3. Run the command:
+3. Run the shell command:
 ```bash
 $ setxkbmap se && xmodmap xmodmap.colemak-se && xset -r 66
 ```
