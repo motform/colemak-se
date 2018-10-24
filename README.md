@@ -18,6 +18,11 @@ _The Colemak keyboard layout adapted for the Swedish language._
 
 The Colemak layout was originally created by Shai Coleman in 2006 as an ergonomic and modern keyboard layout, bringing together the comfort of Dvorak while retaining a lot of QWERTY familiarity. It employs a home row centric design placing frequently used keys under the strongest fingers. While the original layout is optimised for the English language, its Germanic roots also make it suitable for use when writing Swedish.
 
+#### Project Scope
+* Colemak-SE aims to bring a Swedish language adaption of Colemak to all modern operating systems. 
+* The base layout targets 102-key keyboards, as these are the far most widely used in Sweden. 
+* Colemak-SE makes as few key changes as possible in order to ease the often brutal learning process.
+
 #### ÅÄÖ-placement
 Colemak-SE does not provide full `ÅÄÖ` parity with QWERTY. The `Ö-key` has been moved up a row to where the `P-key` is on QWERTY, to make room for the default Colemak placement of the `O-key`.
 
@@ -66,11 +71,6 @@ In the [extras](./extras/reference-sheet-A4_colemak-se.pdf) folder, you can find
 # Issues
 * The macOS implementation sometimes has strange behaviour when using ctrl-modifier.
 * The macOS implementation only has .incs for 'dark mode'.
-
-# Project Scope
-* Colemak-SE aims to bring a Swedish language adaption of Colemak to all modern operating systems. 
-* The base layout targets 102-key keyboards, as these are the far most widely used in Sweden. 
-* Colemak-SE makes as few key changes as possible in order to ease the often brutal learning process.
 
 # Attributions
 * macOS keyboard layout created using [Ukelele.](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=Ukelele) 
