@@ -4,7 +4,7 @@ _The Colemak keyboard layout adapted for the Swedish language._
 * [Layout](#layout)
 * [Installation](#installation)
 	* [Linux](#linux)
-		* [xmodmap](#xmodmar)
+		* [xmodmap](#xmodmap)
 	* [macOS](#macos)
 	* [Windows](#windows)
 * [Learning Colemak](#learning-colemak)
