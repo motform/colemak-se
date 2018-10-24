@@ -21,9 +21,22 @@ Colemak-SE does not provide full `ÅÄÖ` parity with QWERTY. The `Ö-key` has b
 # Installation
 
 ## Linux
-Getting keyboard layouts to work with your flavor of Linux can be a bit of an hassle, depending on how your keyboard stack looks. Currently there are two working branches for `xmodmap` and `xkb` implementations. The project goal is to to provide parity with the opitons listed the [English Colemak website](https://colemak.com/Unix).
+The Linux implementation of Colemak-SE aims to mirror the [English Colemak website](https://colemak.com/Unix). There are a few diffient ways to do it, all with thier neuances.
 
-The `xmodmoap` implementation is regarded as stable, and can be used without superuser rights if `xmodmap` is already present. `xkb` has prooven to be a bit shaky at times, but is a more permanent option.
+### xmodmap
+[`xmodmap`] is a utility for modifying keymaps in [`Xorg`]. It modifies the layout temporarily and does not require root access.
+
+1. Download the [`xmodmap release`].
+2. Open a terminal window and navigate to the file.
+3. Run the command:
+```bash
+$ setxkbmap se && xmodmap xmodmap.colemak-se && xset -r 66
+```
+
+If you want to restore QWERTY, run the following:
+```bash
+$ setxkbmap se && xset -r 66
+```
 
 ## macOS
 To install the layout, simply put the `colemak-se.bundle` in the folder `/Library/Keyboard Layouts`. This will install the layout on a system level, which is usually what you want. If you prefer to have the layout on a user level, place it in the user library instead `~/Library/Keyboard Layouts`.
