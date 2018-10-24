@@ -11,18 +11,18 @@ The Colemak layout was originally created by Shai Coleman in 2006 as an ergonomi
 * Colemak-SE makes as few key changes as possible in order to ease the often brutal learning process.
 
 Table of Contents
-=================
+-----------------
 
-	* [Layout](#layout)
-	* [Installation](#installation)
-		* [Linux](#linux)
-			* [xmodmap](#xmodmar)
-		* [macOS](#macos)
-		* [Windows](#windows)
-	* [Learning Colemak](#learning-colemak)
-	* [Issues](#issues)
-	* [Attributions](#attributions)
-	* [Licence](#licence)
+* [Layout](#layout)
+* [Installation](#installation)
+	* [Linux](#linux)
+		* [xmodmap](#xmodmar)
+	* [macOS](#macos)
+	* [Windows](#windows)
+* [Learning Colemak](#learning-colemak)
+* [Issues](#issues)
+* [Attributions](#attributions)
+* [Licence](#licence)
 
 # Layout
 ![illustration of colemak-se layout](./assets/illustrations/layout.png)
