@@ -17,8 +17,8 @@ xkb_symbols "colemak" {
 	key <AD07> { [ l, L ] };
 	key <AD08> { [ u, U ] };
 	key <AD09> { [ y, Y ] };
-	key <AD10> { [ aring, Aring ] };
-	key <AD11> { [ odiaeresis, Odiaeresis ] };
+	key <AD10> { [ odiaeresis, Odiaeresis ] };
+	key <AD11> { [ aring, Aring ] };
 
 	// home row
 	key <AC02> { [ r, R ] };
