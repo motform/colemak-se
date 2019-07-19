@@ -22,17 +22,17 @@ xkb_symbols "colemak" {
 	key <AD12> { [ aring, Aring ] };
 
 	// home row
-	key <AC02> { [ r, R ] }
-	key <AC03> { [ s, S ] }
-	key <AC04> { [ t, T ] }
-	key <AC05> { [ d, D ] }
-	key <AC06> { [ h, H ] }
-	key <AC07> { [ n, N ] }
-	key <AC08> { [ e, E ] }
-	key <AC09> { [ i, I ] }
-	key <AC10> { [ o, O ] }
+	key <AC02> { [ r, R ] };
+	key <AC03> { [ s, S ] };
+	key <AC04> { [ t, T ] };
+	key <AC05> { [ d, D ] };
+	key <AC06> { [ h, H ] };
+	key <AC07> { [ n, N ] };
+	key <AC08> { [ e, E ] };
+	key <AC09> { [ i, I ] };
+	key <AC10> { [ o, O ] };
 
 	// bottom row
-	key <AB05> { [ k, K ] }
+	key <AB06> { [ k, K ] };
 
-}
+};
