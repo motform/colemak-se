@@ -1,19 +1,6 @@
 # colemak-se
 _The Colemak keyboard layout adapted for the Swedish language._
 
-* [Layout](#layout)
-* [Installation](#installation)
-	* [Linux](#linux)
-		* [xmodmap](#xmodmap)
-		* [xkb](#xkb)
-	* [macOS](#macos)
-	* [Windows](#windows)
-* [Learning Colemak](#learning-colemak)
-* [Issues](#issues)
-* [Project Scope](#project-scope)
-* [Attributions](#attributions)
-* [Licence](#licence)
-
 ## Layout
 ![illustration of colemak-se layout](./assets/illustrations/layout.png)
 
@@ -27,7 +14,7 @@ The Colemak layout was originally created by Shai Coleman in 2006 as an ergonomi
 #### ÅÄÖ-placement
 Colemak-SE does not provide full `ÅÄÖ` parity with QWERTY. `Ö` has been moved up a row to where `P` is on QWERTY, to make room for the default Colemak placement of `O`.
 
-#### Caps lock replacements
+#### `⇪ Caps Lock` replacements
 The original Colemak layout remaps `⇪ Caps Lock` to `← Backspace`. I personaly find this choice rather contentious and largely unhelpful when compared to more common replacements like `esc` and `ctrl`. As such, `⇪ Caps Lock` is left unchanged in order to make it easier for the end user to change it to their preference. macOS supports this by default (System preferences → Keyboard → Modifiers Keys...), with more advanced replacements made possible through the excellent [Karabiner](https://karabiner-elements.pqrs.org/). Windows requires [Microsoft PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) and Linux users will probably want to look into xkb.
 
 ## Installation
@@ -101,8 +88,7 @@ For resources on how to learn Colemak, see the [official Colemak website](https:
 In the [extras](./extras/reference-sheet-A4_colemak-se.pdf) folder, you can find print out pdf:s for easy reference.
 
 ## Issues
-* The macOS implementation sometimes has strange behaviour when using ctrl-modifier.
-* The macOS implementation only has .incs for 'dark mode'.
+* The macOS implementation only has `.incs` for 'dark mode'. I have made icons for light mode for personal use, but I can't find any documentation on how to make a dynamic `.incs`, givme me an @ if you know how!
 
 ## Attributions
 * macOS keyboard layout created using [Ukelele.](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=Ukelele) 
